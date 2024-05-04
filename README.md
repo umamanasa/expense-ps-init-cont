@@ -1,1 +1,1 @@
-# expense-ps-init-cont
+# expense-aws-parameter store-init-container
